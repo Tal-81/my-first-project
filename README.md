@@ -1,7 +1,7 @@
-# Coding Club
+# My First Project
 
 ## Description
-The Coding Club website is a landing page for parents and children looking for a fun coding club for kids aged 8 to 18. The Coding club offers activities for kids to learn how to code from a young age.
+My first project website is a landing page for parents and children looking for a fun coding club for kids aged 8 to 18. The Coding club offers activities for kids to learn how to code from a young age.
 
 ## Features
 1. Navigation
