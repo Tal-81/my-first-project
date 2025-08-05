@@ -16,7 +16,7 @@ My first project website is a landing page for parents and children looking for 
 - The code for the social media icon animations was taken from [website name](https://Tal-81.github.io/my-first-project/)
 - Thanks to my mentor Rudy Matheson for his patience and support as I built out this project.
 
-##Table in MD
+## Table in MD
 head1 | head2 | head3
 --- | --- | ---
 *italic* | **bold** | inline
